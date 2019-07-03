@@ -1,0 +1,26 @@
+h1{
+  color: blue;
+  text-align: center;
+  font-size: 120;
+  font-family: monospace;
+
+}
+h2{
+  text-align:center;
+  color:#BDA737;
+  font-style: italic;
+  font-family: cursive ,monospace , sans-sans-serif;
+
+}
+body{
+  background-color:#ACB0D0;
+  margin:0 auto;
+}
+li{
+   font-weight: bold;
+
+}
+p{
+  font-style: italic;
+  color:#C43290;
+}

@@ -1,12 +1,10 @@
 h1{
   color: blue;
-  text-align: center;
   font-size: 120;
   font-family: monospace;
 
 }
 h2{
-  text-align:center;
   color:#BDA737;
   font-style: italic;
   font-family: cursive ,monospace , sans-sans-serif;
@@ -18,9 +16,16 @@ body{
 }
 li{
    font-weight: bold;
-
 }
+
 p{
   font-style: italic;
   color:#C43290;
+  font-size:1.3em;
 }
+img{
+  width:500;
+  height:100;
+
+}
+div{}

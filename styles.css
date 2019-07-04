@@ -8,11 +8,7 @@ h2{
   color:#BDA737;
   font-style: italic;
   font-family: cursive ,monospace , sans-sans-serif;
-
-}
-body{
-  background-color:#ACB0D0;
-  margin:0 auto;
+  padding-right: 30px
 }
 li{
    font-weight: bold;
@@ -28,4 +24,3 @@ img{
   height:100;
 
 }
-div{}
